@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:24.188538
+#+DATE: 2015-08-30 20:23:24.418304
 #+TITLE: 大乘四法經釋
 #+PROPERTY: CBETA_ID T26n1535
 #+PROPERTY: ID KR6i0594
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1535
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0594_T_000-0364c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0594_T_001-0364c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1535¶
-
- 大乘四法經釋¶
+No. 1535¶
+大乘四法經釋¶
 ¶
 
 一言立所宗者。世間宗見惣有其二。一外二¶
@@ -58,7 +57,7 @@ No.1535¶
 般若等經所明。一切難行苦行。廣大境界。是¶
 其菩薩所緣境故。二修行大。廣修自行及他¶
 行故。三智大。能了人法二無我故。四精進¶
-大。三無數劫行難行故。五方便不住生死及¶
+大。三無數劫行難行故。五方便大不住生死及¶
 涅槃故。六業大。盡生死際。能作諸佛一切業¶
 故。七成就大。而能成就十力無畏不共法等¶
 大功德故。以此七大。而起二乘故言大也。言¶
